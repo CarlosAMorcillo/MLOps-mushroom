@@ -87,7 +87,7 @@ dmypy.json
 # =============================================================================
 
 # Data files
-*.csv
+#*.csv
 *.tsv
 *.xlsx
 *.xls
@@ -233,11 +233,11 @@ settings_local.py
 *.rar
 *.7z
 
-.cursor/
+#.cursor/
 
 
 # mlflow
 #models/
-03-Orchestrarion/mlruns/
+#03-Orchestrarion/mlruns/
 
 *.html
