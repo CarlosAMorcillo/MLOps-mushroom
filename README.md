@@ -14,7 +14,6 @@ Construir un flujo reproducible y automatizado que permita:
 
 ## Estructura del proyecto
 
-```text
 MLOps_UdeM_Mushroom/
 │
 ├── data/
@@ -24,7 +23,7 @@ MLOps_UdeM_Mushroom/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
---
+
 ## Pipeline de Machine Learning
 
 El flujo completo del pipeline es el siguiente:
